@@ -1,2 +1,2 @@
 http://github.sommrey.de
-http://github.sommrey.de/openvpn-tcp-connector
+http://github.sommrey.de/openvpn-tcp-connector/
