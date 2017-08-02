@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: jo's GitHub page
+description: An overview of GitHub projects
+gems:
+  - jekyll-sitemap
