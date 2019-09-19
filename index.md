@@ -12,5 +12,5 @@ See [Shell::Bash](shell-bash)
 
 Turns specially formed comments in perl scripts into debugging print statements.
 This is similar to [Smart::Comments](https://metacpan.org/pod/Smart::Comments)
-See [Debug::Filter::PrintExpr](debug-filter-printexpr)
+See [Debug::Filter::PrintExpr](debug-filter-printexpr/README.md)
 
