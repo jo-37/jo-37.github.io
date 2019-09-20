@@ -9,7 +9,7 @@ See [openvpn-tcp-connector](openvpn-tcp-connector)
 A wrapper to the bash shell from perl scripts.
 
 See [Shell::Bash](shell-bash) or
-[POD](shell-bash/POD.md).
+<a href="shell-bash/POD.md">POD</a>.
 
 ## Perl Debug Filter
 
@@ -17,5 +17,5 @@ Turns specially formed comments in perl scripts into debugging print statements.
 This is similar to [Smart::Comments](https://metacpan.org/pod/Smart::Comments)
 
 See [Debug::Filter::PrintExpr](debug-filter-printexpr) or
-[POD](debug-filter-printexpr/POD.md).
+<a href="debug-filter-printexpr/POD.md">POD</a>.
 
