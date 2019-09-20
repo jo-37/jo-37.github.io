@@ -14,8 +14,8 @@ Debug::Filter::PrintExpr - Convert comment lines to debug print statements
 
     #${$s}
     #@{@a}
-    #%\{%h}
-    #${ calc: @a * 2 }
+    #%{%h}
+    #$\{ calc: @a * 2 }
     #\{$ref}
 ```
 
