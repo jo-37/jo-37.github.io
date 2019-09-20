@@ -9,7 +9,7 @@ See [openvpn-tcp-connector](openvpn-tcp-connector)
 A wrapper to the bash shell from perl scripts.
 
 See [Shell::Bash](shell-bash) or
-[POD] (shell-bash/POD.md).
+[POD](shell-bash/POD.md).
 
 ## Perl Debug Filter
 
