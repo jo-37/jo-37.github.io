@@ -8,14 +8,11 @@ See [openvpn-tcp-connector](openvpn-tcp-connector)
 ## Perl Bash interface
 A wrapper to the bash shell from perl scripts.
 
-See [Shell::Bash](shell-bash) or
-<a href="shell-bash/blob/master/POD.md">POD</a>.
+See [Shell::Bash](shell-bash).
 
 ## Perl Debug Filter
 
 Turns specially formed comments in perl scripts into debugging print statements.
 This is similar to [Smart::Comments](https://metacpan.org/pod/Smart::Comments)
 
-See [Debug::Filter::PrintExpr](debug-filter-printexpr) or
-<a href="debug-filter-printexpr/blob/master/POD.md">POD</a>.
-
+See [Debug::Filter::PrintExpr](debug-filter-printexpr).
