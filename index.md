@@ -5,11 +5,11 @@ An adapter between an UDP OpenVPN server and TCP OpenVPN clients.
 
 See [openvpn-tcp-connector](openvpn-tcp-connector)
 
-## Perl Bash interface
-A wrapper to the bash shell from perl scripts.
+## Perl Shell interface
+Execute shell commands using specific shell
 
-See [POD](shell-bash) or
-[repository](https://github.com/jo-37/shell-bash).
+See [POD](shell-run) or
+[repository](https://github.com/jo-37/shell-run).
 
 ## Perl Debug Filter
 
