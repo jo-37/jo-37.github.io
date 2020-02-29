@@ -18,3 +18,9 @@ This is similar to [Smart::Comments](https://metacpan.org/pod/Smart::Comments)
 
 See [POD](debug-filter-printexpr) or
 [repository](https://github.com/jo-37/debug-filter-printexpr).
+
+## Perl Tools
+
+A loose collection of more or less useful subroutines
+
+See [POD](Jo-Util) or [repository](https://github.com/jo-37/Jo-Util).
