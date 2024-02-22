@@ -1,5 +1,12 @@
 # My GitHub projects
 
+## PDL::Opt::GLPK: an interface to GLPK
+This module makes the __GNU Linear Programming Kit__ (GLPK) available
+for PDL applications.
+
+See [POD](pdl-opt-glpk) or
+[repository](https://github.com/jo-37/pdl-opt-glpk)
+
 ## OpenVPN TCP connector
 An adapter between an UDP OpenVPN server and TCP OpenVPN clients.
 
