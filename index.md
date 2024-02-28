@@ -1,6 +1,6 @@
 # My Blog
 
-[The Bear's Den](./the-bears-den)
+[**The Bear's Den**](./the-bears-den) - Enter at your own risk.
 
 # My GitHub projects
 
