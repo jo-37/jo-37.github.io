@@ -14,7 +14,8 @@ See [POD](pdl-opt-glpk) or
 ## OpenVPN TCP connector
 An adapter between an UDP OpenVPN server and TCP OpenVPN clients.
 
-See [openvpn-tcp-connector](openvpn-tcp-connector)
+See [POD](openvpn-tcp-connector) or
+See [repository](https://github.com/jo-37/openvpn-tcp-connector)
 
 ## Perl Shell interface
 Execute shell commands using specific shell
