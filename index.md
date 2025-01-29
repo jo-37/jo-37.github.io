@@ -8,7 +8,7 @@
 This module makes the __GNU Linear Programming Kit__ (GLPK) available
 for PDL applications.
 
-See [POD](pdl-opt-glpk) or
+See [POD](jo-37/pdl-opt-glpk/Readme.md) or
 [repository](https://github.com/jo-37/pdl-opt-glpk)
 
 ## OpenVPN TCP connector
