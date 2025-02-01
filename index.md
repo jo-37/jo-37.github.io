@@ -11,11 +11,11 @@ for PDL applications.
 See [POD](pdl-opt-glpk) or
 [repository](https://github.com/jo-37/pdl-opt-glpk)
 
-## Syntax::Feature::TrVars: Use variables as `tr///` operands
+## String::Compile::Tr: Use variables as `tr///` operands
 This module enables the usage of variables as `tr///` operands without `eval`'ing them.
 
-See [POD](Syntax-Feature-TrVars) or
-[repository](https://github.com/jo-37/Syntax-Feature-TrVars)
+See [POD](String::Compile::Tr) or
+[repository](https://github.com/jo-37/String-Compile-Tr)
 
 ## OpenVPN TCP connector
 An adapter between an UDP OpenVPN server and TCP OpenVPN clients.
