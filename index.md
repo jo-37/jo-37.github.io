@@ -14,7 +14,7 @@ See [POD](pdl-opt-glpk) or
 ## String::Compile::Tr: Use variables as `tr///` operands
 This module enables the usage of variables as `tr///` operands without `eval`'ing them.
 
-See [POD](string-compile-tr) or
+See [POD](String-Compile-Tr) or
 [repository](https://github.com/jo-37/String-Compile-Tr)
 
 ## OpenVPN TCP connector
